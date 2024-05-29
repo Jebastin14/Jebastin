@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm KJ Arun Kumar</h1>
-<h3 align="center">An aspiring Python Full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm A Jebastin</h1>
+<h3 align="center">An aspiring Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Backend Development**
+- 💬 Ask me about **Python, Java, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KJArun](https://github.com/KJArun)
-
-- 💬 Ask me about **Python, Java, Django**
-
-- 📫 How to reach me **kjarunkumar12@gmail.com**
+- 📫 How to reach me **tnlyjebastinAgmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
