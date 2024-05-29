@@ -2,8 +2,12 @@
 <h3 align="center">An aspiring Web Developer from India</h3>
 
 - 💬 Ask me about **Python, Java, Javascript**
+  
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 📫 How to reach me **tnlyjebastin@gmail.com**
+  
+- 🧩 Good Logical Skill and Problem solving aptitude skill
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
