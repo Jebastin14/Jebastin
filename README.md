@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python, Java, Javascript**
 
-- 📫 How to reach me **tnlyjebastinAgmail.com**
+- 📫 How to reach me **tnlyjebastin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
